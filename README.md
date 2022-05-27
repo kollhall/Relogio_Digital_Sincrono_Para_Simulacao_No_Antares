@@ -1,2 +1,2 @@
-# Rel-gio_Digital_S-ncrono_Para_Simulacao_No_Antares
-de
+# Relogio_Digital_Sincrono_Para_Simulacao_No_Antares
+Esse repositório contém um arquivo zip de um relógio digital feito com contadores síncronos no simulador de circuitos digitais chamado Antares. Para o funcionamento desse relógio é necessário que o usuário possua o software Antares instalado em sua máquina, com isso, você conseguirá simular um relógio digital, ou até modifica-lo para outros fins.
